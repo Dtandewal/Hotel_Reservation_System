@@ -1,4 +1,4 @@
-# Hotel_Reservation_System
+# Hotel Reservation System
 Welcome to the Hotel Reservation System, a Java-based application for managing hotel reservations efficiently. Whether you're running a small inn or a boutique hotel, this system simplifies the reservation process, enhances guest management, and keeps your business organized.
 
 ## Feature
@@ -11,6 +11,6 @@ Welcome to the Hotel Reservation System, a Java-based application for managing h
 - Delete Reservations: Remove reservations that are no longer needed.
 
 ## Prerequisites
--Java Development Kit (JDK)
+- Java Development Kit (JDK)
 - MySQL Database
 - MySQL Connector/J (Java)
